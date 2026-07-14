@@ -1,11 +1,5 @@
 export type CertificateCategory =
-  | "Security"
-  | "Cloud"
-  | "Database"
-  | "GenAI"
-  | "Hackathons"
-  | "Internship"
-  | "Paper Presentation";
+  "Security" | "Cloud" | "Database" | "GenAI" | "Hackathons" | "Internship" | "Paper Presentation";
 
 export const certificateCategories: CertificateCategory[] = [
   "Security",
