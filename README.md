@@ -68,4 +68,4 @@ Coming Soon
 
 ---
 
-Built with ❤️ using React, TypeScript and Tailwind CSS.
+Built by Deshma Udayakumar 
